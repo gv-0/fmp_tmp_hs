@@ -1,0 +1,1 @@
+A project on Face Mask Detection, Non-Contact Body Temperature Measurement and Automatic Hand Sanitizer Dispenser System
